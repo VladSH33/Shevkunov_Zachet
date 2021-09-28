@@ -1,0 +1,14 @@
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\Lab.exe.config
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\Lab.exe
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\Lab.pdb
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\EntityFramework.dll
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\EntityFramework.xml
+F:\Projects\MyProjects\Lab\Lab\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.csproj.CopyComplete
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.exe
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.pdb
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.Migrations.InitialCreate.resources
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+F:\Projects\MyProjects\Lab\Lab\obj\Debug\Lab.Migrations.AddCurrencyMigration.resources
